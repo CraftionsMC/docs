@@ -65,7 +65,11 @@ const config = {
             items: [
               {
                 label: 'Accounts',
-                to: '/docs/accounts/intro',
+                to: '/docs/accounts/api',
+              },
+              {
+                label: 'URL Shorter',
+                to: '/docs/url-shorter/api',
               },
             ],
           },
