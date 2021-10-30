@@ -5,7 +5,7 @@ sidebar_position: 1
 id: api
 ---
 
-The base url is https://analyze.craftions.net
+The base url is https://analytics.craftions.net
 
 #### Submit data for a website
 
