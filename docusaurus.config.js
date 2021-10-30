@@ -83,6 +83,10 @@ const config = {
                 label: 'URL Shorter',
                 to: '/docs/url-shorter/api',
               },
+              {
+                label: 'Analytics',
+                to: '/docs/analytics/api',
+              },
             ],
           },
           {
