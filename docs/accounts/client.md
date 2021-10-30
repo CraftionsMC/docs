@@ -2,6 +2,7 @@
 sidebar_label: Web Client
 title: Web Client
 sidebar_position: 1
+id: client
 ---
 
 There is also a Web Client which can handle all the HTTP Requests for you.

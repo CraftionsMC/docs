@@ -46,9 +46,21 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'accounts/api',
             position: 'left',
             label: 'Accounts',
+          },
+          {
+            type: 'doc',
+            docId: 'url-shorter/api',
+            position: 'left',
+            label: 'URL Shorter',
+          },
+          {
+            type: 'doc',
+            docId: 'analytics/api',
+            position: 'left',
+            label: 'Analytics',
           },
           {
             href: 'https://github.com/CraftionsMC/docs',

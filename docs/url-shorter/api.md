@@ -2,6 +2,7 @@
 sidebar_label: API Reference
 title: API Reference
 sidebar_position: 1
+id: api
 ---
 
 The base url is https://short.craftions.net

@@ -2,6 +2,7 @@
 sidebar_label: API Reference
 title: API Reference
 sidebar_position: 1
+id: api
 ---
 
 The parameters must be send in the request body as JSON format. The base url is https://account.craftions.net
